@@ -15,10 +15,11 @@ El usuario podrá ingresar uno a uno los nombres de los amigos que planea sortea
 ☑️ **-Validación de datos:** Previene entrada de datos en blanco.
 
 # 💡Ejecución #
-El proyecto está disponible en GitHub Pages y se puede acceder directamente haciendo click en el botón de abajo
+El proyecto está disponible en GitHub Pages y se puede acceder directamente haciendo click en el siguiente link
+https://andreacisneros.github.io/Challenge-Amigo-Secreto/
 
 O puedes para **ejecutarlo localmente:**
-1. Clona este repositorio: git clone
+1. Clona este repositorio: git clone https://github.com/AndreaCisneros/Challenge-Amigo-Secreto
 
 2. Abre el archivo index.html en tu navegador de preferencia
 
@@ -30,7 +31,7 @@ O puedes para **ejecutarlo localmente:**
 **-JavaScript** - Lógica de la aplicación
 
 # 📇 Estructura del proyecto #
-**-Assets:** Recursos gráficos
+**-assets:** Recursos gráficos
 
 **-index.html:** Estructura principal
 
